@@ -41,19 +41,7 @@ int main()
         cout <<endl << "No existen coincidencias."<<endl<<endl;
     }*/
     
-    
 
-// agregar 5 computadoras, de las cuales 3 deben tener 
-// algún atributo con la misma información, el cual
-// servirá para hacer la comparación en la búsqueda lineal
-// buscar() una computadora existente y no existente
-// mostrar la computadora retornada por el método buscar()
-// buscar_todas() las computadoras usando un objeto
-// de tipo computadora definido previamente
-// mostrar los elementos del Arreglo<Computadora*> retornado
-// por buscar_todos()
-// Practicamente son las pruebas que se realizaron con
-// Arreglo<Personaje>
 
     /*
     Arreglo<string> arreglo;
